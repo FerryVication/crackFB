@@ -23,9 +23,12 @@ Here are the features that can be used in this script
 | Show User Agent Account OK   | :x:                |
 
 ## Need to know
-
-This program is illegal!!! Use Wisely!!! If You Are Affected By Article About Cyber ​​Security It's Not The Tool's Author's Responsibility!!
-
+```bash
+This program is illegal!!! 
+Use Wisely!!! If You Are Affected By Article
+About Cyber ​​Security
+It's Not The Tool's Author's Responsibility!!
+```
 ## Link Download Termux
 [Click Here](https://f-droid.org/repo/com.termux_118.apk)👈
 ## How to Install Script
