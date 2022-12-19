@@ -18,7 +18,7 @@ Here are the features that can be used in this script
 | Fitur | Supported          |
 | ------- | ------------------ |
 | Dump Publik   | :white_check_mark: |
-| Change User Agent   | :x:                |
+| Change User Agent   | :white_check_mark:                |
 | Add Password Manual    | :white_check_mark: |
 | Show User Agent Account OK   | :x:                |
 
