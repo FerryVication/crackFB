@@ -20,7 +20,7 @@ Here are the features that can be used in this script
 | Dump Publik   | :white_check_mark: |
 | Change User Agent   | :white_check_mark:                |
 | Add Password Manual    | :white_check_mark: |
-| Show User Agent Account OK   | :x:                |
+| Show User Agent Account CP   | :white_check_mark:                |
 
 ## Need to know
 ```bash
