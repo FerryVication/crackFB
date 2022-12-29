@@ -17,7 +17,7 @@ def create_dir():
 	except:pass
 
 def __feri__():
-	Feri.false()
+	Feri.main()
 	
 if __name__=="__main__":
 	create_dir()
