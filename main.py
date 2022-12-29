@@ -8,7 +8,7 @@ import os,sys
 import Feri
 
 def __feri__():
-	Feri.false()
+	Feri.main()
 	
 if __name__=="__main__":
 	__feri__()
