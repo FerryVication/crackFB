@@ -43,7 +43,7 @@ $ pip install --upgrade pip
 $ git clone https://github.com/CyberCarboon2/crackFB
 $ ls
 $ cd crackFB
-$ python Run.py
+$ python main.py
 ```
 ## How To Update Script
 ```php
@@ -53,7 +53,7 @@ $ git clone https://github.com/CyberCarboon2/crackFB
 $ cd crackFB
 $ ls
 $ git pull
-$ python Run.py
+$ python main.py
 ```
 ## Total Profile Visits
 <br><p align='center'><img src="https://komarev.com/ghpvc/?username=CyberCarboon2&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="CyberCarboon2" />
