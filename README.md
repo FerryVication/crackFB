@@ -48,6 +48,8 @@ $ python Run.py
 ## How To Update Script
 ```php
 $ cd
+$ rm -rf crackFB
+$ git clone https://github.com/CyberCarboon2/crackFB
 $ cd crackFB
 $ ls
 $ git pull
