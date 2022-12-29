@@ -15,13 +15,37 @@
 
 Here are the features that can be used in this script
 
-| Fitur | Supported          |
+| Feature | Supported          |
 | ------- | ------------------ |
 | Dump Publik   | :white_check_mark: |
 | Change User Agent   | :white_check_mark:                |
-| Add Password Manual    | :white_check_mark: |
+| Add Password Manual    | :x: |
 | Show User Agent Account CP   | :white_check_mark:                |
 
+## Information
+```php
+Sayang Sekali Versi Sekarang
+Hanya Support Device 64 bit
+Bagaimana Cara Cek Device
+Support Atau Tidak ?
+Ketik uname -m Pada Termux
+Anda,Jika Muncul aarch64
+Selamat Device Anda Bisa
+Menggunakan Script Ini
+Jika Yang Muncul Bukan
+aarch64 Maka
+Device Mu Tidak Support
+```
+```bash
+Too bad the Current Version
+Only Support 64-bit Devices
+How to Check Devices
+Support Or Not?
+Type uname -m in Termux
+You, If Appears aarch64
+Congratulations Your Device Can
+Using Scripts
+```
 ## Need to know
 ```bash
 This program is illegal!!! 
