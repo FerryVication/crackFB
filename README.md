@@ -23,7 +23,7 @@ Here are the features that can be used in this script
 | Show User Agent Account CP   | :white_check_mark:                |
 
 ## Information
-```php
+```ruby
 Sayang Sekali Versi Sekarang
 Hanya Support Device 64 bit
 Bagaimana Cara Cek Device
@@ -36,25 +36,25 @@ Jika Yang Muncul Bukan
 aarch64 Maka
 Device Mu Tidak Support
 ```
-```bash
-Too bad the Current Version
-Only Support 64-bit Devices
-How to Check Devices
-Support Or Not?
-Type uname -m in Termux
-You, If Appears aarch64
-Congratulations Your Device Can
-Using Scripts
-```
+
+```-Too bad the Current Version```
+```Only Support 64-bit Devices```
+```How to Check Devices```
+```Support Or Not?```
+```Type uname -m in Termux```
+```You, If Appears aarch64```
+```Congratulations Your Device Can```
+```Using Scripts```
+
 ## Need to know
-```bash
-This program is illegal!!! 
-Use Wisely!!! If You Are Affected By Article
-About Cyber ​​Security
-It's Not The Tool's Author's Responsibility!!
-```
+```•This program is illegal!!!```
+```Use Wisely!!! If You Are Affected By Article```
+```About Cyber ​​Security```
+```It's Not The Tool's Author's Responsibility!!```
+
+
 ## Link Download Termux
-[Click Here](https://f-droid.org/repo/com.termux_118.apk)👈
+👉🏻 [Click Here](https://f-droid.org/repo/com.termux_118.apk) 👈🏻
 ## How to Install Script
 ```bash
 $ pkg update && pkg upgrade
