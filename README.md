@@ -21,6 +21,8 @@ Here are the features that can be used in this script
 | Change User Agent   | :white_check_mark:                |
 | Add Password Manual    | :x: |
 | Show User Agent Account CP   | :white_check_mark:                |
+| Dump Followers Publik | :x: |
+| Using Random Proxy | :white_check_mark:                |
 
 ## Information
 ```ruby
