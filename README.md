@@ -69,6 +69,10 @@ $ ls
 $ cd crackFB
 $ python main.py
 ```
+## Or Use This Single Command
+```ruby
+git clone https://github.com/CyberCarboon2/crackFB && cd crackFB && python main.py
+```
 ## How To Update Script
 ```php
 $ cd
