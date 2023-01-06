@@ -60,12 +60,14 @@ Device Mu Tidak Support
 ## How to Install Script
 ```bash
 $ pkg update && pkg upgrade
-$ pkg install python git
+$ pkg install python
+$ pkg install git
 $ pkg install play-audio
 $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install stdiomask
 $ pip install --upgrade pip
+$ pip install get-useragents
 $ git clone https://github.com/CyberCarboon2/crackFB
 $ ls
 $ cd crackFB
