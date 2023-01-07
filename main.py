@@ -7,7 +7,7 @@
 import os,sys
 import Feri
 try:
-	import get-useragents
+	import get_useragents
 except (ImportError,ModuleNotFoundError):
 	os.system('pip install get-useragents')
 def create_dir():
