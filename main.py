@@ -6,6 +6,10 @@
 #--------------------------[ MODULE ]---------------------
 import os,sys
 import Feri
+try:
+	import get-useragents
+except (ImportError,ModuleNotFoundError):
+	os.system('pip install get-useragents')
 def create_dir():
 	try:
 		os.mkdir('OK')
@@ -14,6 +18,7 @@ def create_dir():
 	try:
 		os.mkdir('CP')
 	except:pass
+
 
 def __feri__():
 	Feri.main()
