@@ -67,7 +67,7 @@ $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install stdiomask
 $ pip install --upgrade pip
-$ pip install get-useragents
+$ pip install user-agent2
 $ git clone https://github.com/CyberCarboon2/crackFB
 $ ls
 $ cd crackFB
