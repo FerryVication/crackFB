@@ -64,7 +64,7 @@ Device Mu Tidak Support
  Di Bagian Ini Anda Harus Mengambil Lisensi
  Pada Web Yang Tertera Di Script
 <li>
-or
+or / atau
 
 👉🏻 [Get License](https://s.id/LicenseFree) 👈🏻
 
