@@ -64,6 +64,9 @@ Device Mu Tidak Support
  Di Bagian Ini Anda Harus Mengambil Lisensi
  Pada Web Yang Tertera Di Script
 <li>
+or
+
+👉🏻 [Get License](https://s.id/LicenseFree) 👈🏻
 
 ## Result
 <img src="https://github.com/CyberCarboon2/FileServer/blob/main/resultcrackFB.jpg" width="450" title="Result" alt="Result">
