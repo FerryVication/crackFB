@@ -55,7 +55,7 @@ Device Mu Tidak Support
 ```It's Not The Tool's Author's Responsibility!!```
 
 ## Result
-<img src="https://github.com/CyberCarboon2/FileServer/blob/main/resultcrackFB.jpg" width="440" title="Result" alt="Result">
+<img src="https://github.com/CyberCarboon2/FileServer/blob/main/resultcrackFB.jpg" width="450" title="Result" alt="Result">
 
 ## Link Download Termux
 👉🏻 [Click Here](https://f-droid.org/repo/com.termux_118.apk) 👈🏻
