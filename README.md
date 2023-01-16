@@ -20,7 +20,7 @@ Here are the features that can be used in this script
 | Dump Publik   | :white_check_mark: |
 | Change User Agent   | :white_check_mark:                |
 | Add Password Manual    | :x: |
-| Show User Agent Account CP   | :white_check_mark:                |
+| Show User Agent Account CP   | :x:                |
 | Dump Followers Publik | :x: |
 | Using Random Proxy | :white_check_mark:                |
 
