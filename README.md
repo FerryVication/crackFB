@@ -23,7 +23,7 @@ Here are the features that can be used in this script
 | Show User Agent Account CP   | :x:                |
 | Dump Followers Publik | :x: |
 | Using Random Proxy | :white_check_mark:                |
-
+| WiFi | :x: |
 ## Information
 ```ruby
 Sayang Sekali Versi Sekarang
