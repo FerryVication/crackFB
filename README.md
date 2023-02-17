@@ -54,20 +54,6 @@ Device Mu Tidak Support
 ```About Cyber ​​Security```
 ```It's Not The Tool's Author's Responsibility!!```
 
-## License Free
-<img src="https://github.com/CyberCarboon2/FileServer/blob/main/lisensi.jpg" width="450" title="License Free" alt="License Free">
-<li>
- In this section you must take the license
- on the web listed in the script
-</li>
-<li>
- Di Bagian Ini Anda Harus Mengambil Lisensi
- Pada Web Yang Tertera Di Script
-<li>
-or / atau
-
-👉🏻 [Get License](https://s.id/LicenseFree) 👈🏻
-
 ## Result
 <img src="https://github.com/CyberCarboon2/FileServer/blob/main/resultcrackFB.jpg" width="450" title="Result" alt="Result">
 
