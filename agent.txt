@@ -1,1 +1,1 @@
-Mozilla/5.0 (Linux; Android 10; XIAOMI Redmi Note 9 Pro Build/NMF26F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.111 Mobile Safari/537.36 AlohaBrowser/2.19.3
+Mozilla/5.0 (Linux; Android 7; OFa9FhlUIH; U; en) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/ 104.0.5303.91 Mobile AvastSecureBrowser/7.2.1 Safari/537.36
