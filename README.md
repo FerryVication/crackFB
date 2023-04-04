@@ -26,27 +26,11 @@ Here are the features that can be used in this script
 | WiFi | :x: |
 ## Information
 ```ruby
-Sayang Sekali Versi Sekarang
-Hanya Support Device 64 bit
-Bagaimana Cara Cek Device
-Support Atau Tidak ?
-Ketik uname -m Pada Termux
-Anda,Jika Muncul aarch64
-Selamat Device Anda Bisa
-Menggunakan Script Ini
-Jika Yang Muncul Bukan
-aarch64 Maka
-Device Mu Tidak Support
+Selamat Sekarang Script Ini Support 
+Untuk 64 dan 32 bit
 ```
 
-```-Too bad the Current Version```
-```Only Support 64-bit Devices```
-```How to Check Devices```
-```Support Or Not?```
-```Type uname -m in Termux```
-```You, If Appears aarch64```
-```Congratulations Your Device Can```
-```Using Scripts```
+
 
 ## Need to know
 ```•This program is illegal!!!```
