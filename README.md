@@ -90,3 +90,5 @@ $ python main.py
 <p style="font-size: 20px; font-family: Cambria; color: red; align: center;">Program Ini Bersifat ilegal !!! Gunakan Dengan Bijak !!! Jika Anda Terkena Pasal Tentang Keamanan Cyber Ini bukan Tanggung Jawab Penulis Alat !!</p>
 <br>
 <i align: center;>This program is illegal!!! Use Wisely!!! If You Are Affected By Article About Cyber ​​Security It's Not The Tool's Author's Responsibility!!</i>
+
+### ```Powered By``` [Ferry](https://wa.me/6288225349583?text=Hallo+Bang+Feri)
