@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with  by <a href="https://github.com/CyberCarboon2">Feri Pratama</a>
+  Made with Python by <a href="https://github.com/CyberCarboon2">Feri Pratama</a>
 </p>
 <p align="center">
  
