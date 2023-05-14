@@ -7,9 +7,10 @@
 import os,sys
 import Feri
 try:
-	import user_agent2
+	import requests
 except (ImportError,ModuleNotFoundError):
-	os.system('pip install user-agent2 && pip install get-useragents')
+	os.system('pip install requests')
+	os.system('pkg install play-audio')
 def create_dir():
 	try:
 		os.mkdir('OK')
