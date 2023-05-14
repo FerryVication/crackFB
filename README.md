@@ -49,11 +49,9 @@ $ pkg update && pkg upgrade
 $ pkg install python
 $ pkg install git
 $ pkg install play-audio
-$ pip install requests mechanize
-$ pip install rich bs4
-$ pip install stdiomask
-$ pip install --upgrade pip
-$ pip install user-agent2
+$ pip install requests
+$ pip install rich
+$ pip install bs4
 $ git clone https://github.com/CyberCarboon2/crackFB
 $ ls
 $ cd crackFB
