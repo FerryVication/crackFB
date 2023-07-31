@@ -5,7 +5,7 @@
 # CyberCarboon2
 #--------------------------[ MODULE ]---------------------
 import os,sys
-import Feri
+import FB
 try:
 	import requests
 except (ImportError,ModuleNotFoundError):
@@ -22,7 +22,7 @@ def create_dir():
 
 
 def __feri__():
-	Feri.main()
+	FB.main()
 	
 if __name__=="__main__":
 	create_dir()
