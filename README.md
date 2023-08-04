@@ -55,6 +55,7 @@ $ pip install bs4
 $ git clone https://github.com/CyberCarboon2/crackFB
 $ ls
 $ cd crackFB
+$ termux-setup-storage
 $ python main.py
 ```
 ## Or Use This Single Command
